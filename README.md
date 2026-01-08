@@ -1,1 +1,1 @@
-# Microgrid-Simulation
+# MicrogridSimulation
